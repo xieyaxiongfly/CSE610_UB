@@ -7,13 +7,13 @@ baseurl: "/CSE610_UB" # the subpath of your site, e.g. /blog/
 url: "https://xieyaxiongfly.github.io/" # the base hostname & protocol for your site
 
 schoolname: "University at Buffalo, SUNY"
-schoolurl: "https://engineering.buffalo.edu/computer-science-engineering.html"
-twitter_username: username 
+schoolurl: "https://xieyaxiongfly.github.io"
+#twitter_username: username 
 
 address: |
    Department of Computer Science and Engineering 
-   Buffalo, NY
-   USA
+   University at Buffalo, SUNY
+   Buffalo, NY, USA
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
