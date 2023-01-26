@@ -1,19 +1,19 @@
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_name: Special Topics on Mobile Sensing & Mobile Networks
+course_description: ""
+course_semester: "Spring 2023"
 
 baseurl: "/CSE610_UB" # the subpath of your site, e.g. /blog/
 url: "https://xieyaxiongfly.github.io/" # the base hostname & protocol for your site
 
-schoolname: "UB"
-schoolurl: "https://hogwarts.edu"
+schoolname: "University at Buffalo, SUNY"
+schoolurl: "https://engineering.buffalo.edu/computer-science-engineering.html"
 twitter_username: username 
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+   Department of Computer Science and Engineering 
+   Buffalo, NY
+   USA
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
