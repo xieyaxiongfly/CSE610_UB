@@ -17,7 +17,6 @@ links:
 - [Readings 1](http://example.com)
 - [Readings 2](http://example.com)
 
-type: lecture
 date: 2018-09-20T8:00:00+4:30
 title: Course Introduction 
 tldr: "Short text to discribe what this lecture is about."
