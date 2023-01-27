@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2018-09-20T8:00:00+4:30
-title: Course Introduction 
+date: 2023-02-24T12:50:00+2:50
+title: Wireless Communication 
 tldr: "Introduction of the course content and requirements."
 links: 
     - url: https://google.com
