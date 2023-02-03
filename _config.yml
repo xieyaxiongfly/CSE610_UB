@@ -3,8 +3,8 @@ course_name: Special Topics on Mobile Sensing & Mobile Networks
 course_description: ""
 course_semester: "Spring 2023"
 
-#baseurl: "/CSE610_UB" # the subpath of your site, e.g. /blog/
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/CSE610_UB" # the subpath of your site, e.g. /blog/
+#baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://xieyaxiongfly.github.io/" # the base hostname & protocol for your site
 
 schoolname: "University at Buffalo, SUNY"
@@ -28,7 +28,7 @@ markdown: kramdown
 permalink: blog/:year/:month/:title
 excerpt_separator: "<!--more-->"
 
-include: ['_images', '_css']
+include: ['_images', '_css', '_files']
 exclude: ['develop']
 
 dateformat: "%m/%d/%Y"
