@@ -70,5 +70,5 @@ It may also include material from the proposal after you had the chance to updat
 
 ## Final Report
 The final project report is due on Friday, May, 19, 2023.
-In the report, please include a paragraph to describe each team member's contribution to the project. .
+In the report, please include a paragraph to describe each team member's contribution to the project.
 
