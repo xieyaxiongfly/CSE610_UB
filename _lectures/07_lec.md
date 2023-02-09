@@ -8,6 +8,6 @@ tldr: "Each student is required to read the paper before the class."
 #      name: slides
 ---
 **Research Papers:**
-- [ArrayTrack](/_files/paper/array_track.pdf)
-- [mD-Track](/_files/paper/md_track.pdf)
+- [ArrayTrack](/_images/paper/array_track.pdf)
+- [mD-Track](/_images/paper/md_track.pdf)
 

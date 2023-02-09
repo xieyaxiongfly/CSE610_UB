@@ -8,6 +8,6 @@ tldr: "Each student is required to read the paper before the class."
 #      name: slides
 ---
 **Research Papers:**
-- [PBE-CC](/_files/paper/pbe_cc.pdf)
-- [MPC-ABR](/_files/paper/mpc_abr.pdf)
+- [PBE-CC](/_images/paper/pbe_cc.pdf)
+- [MPC-ABR](/_images/paper/mpc_abr.pdf)
 

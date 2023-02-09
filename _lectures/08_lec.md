@@ -8,6 +8,6 @@ tldr: "Each student is required to read the paper before the class."
 #      name: slides
 ---
 **Research Papers:**
-- [VoLoc](/_files/paper/voloc.pdf)
-- [RF-Pose](/_files/paper/rfpost3D.pdf)
+- [VoLoc](/_images/paper/voloc.pdf)
+- [RF-Pose](/_images/paper/rfpost3D.pdf)
 
