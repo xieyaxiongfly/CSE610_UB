@@ -8,6 +8,6 @@ tldr: "Each student is required to read the paper before the class."
 #      name: slides
 ---
 **Research Papers:**
-- [DDS](/_images/paper/dds.pdf)
-- [NetShare](/_images/paper/gan_ip.pdf)
+- [DDS](/CSE610_UB/_files/dds.pdf)
+- [NetShare](/CSE610_UB/_files/gan_ip.pdf)
 
