@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-03-24T12:50:00+2:50
+date: 2023-03-31T12:50:00+2:50
 title: Paper Reading and Presentation
 tldr: "Each student is required to read the paper before the class."
 #links: 
@@ -9,4 +9,4 @@ tldr: "Each student is required to read the paper before the class."
 ---
 **Research Papers:**
 - [VoLoc](/CSE610_UB/_files/paper/voloc.pdf)
-- [RF-Pose](/CSE610_UB/_files/paper/rfpost3D.pdf)
+- [RF-Pose](/CSE610_UB/_files/paper/rfpose3D.pdf)
