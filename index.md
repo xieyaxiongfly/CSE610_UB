@@ -6,14 +6,15 @@ Nowadays, wireless technologies (cellular, Wi-Fi, mmWave) do not only provide da
 
 
 ## Lecture Time & Location:
-Friday, 10:00AM-12:50PM, Davis 113A, North Campus
+Tuesday, 2:00pM-3:20PM, Park Hall, North Campus
+Thursday, 2:00pM-3:20PM, Park Hall, North Campus
 
 ## Slack:
-We will use slack to ask questions. Pleas join the slack via this [link](https://join.slack.com/t/slack-iwc1269/shared_invite/zt-1og595ysi-jaKcGRcko~1erhgWG32cEg).
+We will use slack to ask questions. Pleas join the slack via this [link](https://join.slack.com/t/slack-pvl4009/shared_invite/zt-225v7oixh-ikMtTMzvE8IS2oX1MFXtJQ).
 
 ## Paper Presentation Sign Up
 
-Please sign up for the paper that you would like to present in the class via this [link](https://docs.google.com/spreadsheets/d/1zGiKwJtlhbZKsTkFa92t--PJVZhT97yi0ANM5RtJ-ko/edit?usp=sharing).
+Please sign up for the paper that you would like to present in the class via this [link]().
 ## Grading:
 
 <li> Class Participation: 10%</li>
