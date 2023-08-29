@@ -1,7 +1,7 @@
 # Site settings
 course_name: Special Topics on Mobile Sensing & Mobile Networks
 course_description: ""
-course_semester: "Spring 2023"
+course_semester: "Fall 2023"
 
 baseurl: "/CSE610_UB" # the subpath of your site, e.g. /blog/
 #baseurl: "" # the subpath of your site, e.g. /blog/
